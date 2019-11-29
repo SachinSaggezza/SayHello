@@ -1,0 +1,15 @@
+{
+  "name": "say-hello",
+  "version": "0.1.0",
+  "description": "Simple pacakage which simply prints hello dolly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "printing"
+  ],
+  "author": "Sachin Sharma",
+  "license": "GPL-3.0-or-later"
+}
